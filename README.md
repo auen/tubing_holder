@@ -9,7 +9,10 @@ This is a 3D-printed tubing holder for bed side rails in hospitals. My local hos
 I print these on my Ender 3 Pro in PLA using Cura. I find conical supports, only touching build plate easiest to remove. After the print is finished, drop in an M5 nut and thread the bold in.
 
 # Pictures
-![alt text](pics/Print_orientation.JPEG "Pring orientation")
+Recommended print orientation
+![alt text](pics/Print_orientation.JPEG "Print orientation")
+
+Assembled clamp. (note: this is an earlier prototype)
 ![alt text](pics/Assembled.JPEG "Assembled clamp. Note: older version")
 
 # Keywords
