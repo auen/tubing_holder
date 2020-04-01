@@ -6,7 +6,7 @@ This is a 3D-printed tubing holder for bed side rails in hospitals. My local hos
  * M5 nut and bolt
 
 # Build Instructions
-I print these on my Ender 3 Pro in PLA using Cura. I find conical supports, only touching build plate easiest to remove. After the print is finished, drop in an M5 nut and thread the bold in.
+I print these on my Ender 3 Pro in PLA using Cura (60% infill). I find conical supports, only touching build plate easiest to remove. After the print is finished, drop in an M5 nut and thread the bolt in.
 
 # Pictures
 Recommended print orientation
